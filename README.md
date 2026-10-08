@@ -25,8 +25,8 @@ This project analyzes the dependency between the number of files and their respe
 ## 📸 Results & Visualization
 1. **Terminal Output & Statistics**
 Statistical breakdown showing the exact count and percentage for each size category. The analysis reveals that the vast majority of files (65.75%) fall into the 0-10 KB range.
-<img src="./screenshots/src1.png" width="500" />
+<img src="./screenshots/scr1.png" width="500" />
 
 2. **Frequency Distribution Chart**
 Visual representation of the file count across all size ranges.
-<img src="./screenshots/src2.png" width="500" />
+<img src="./screenshots/scr2.png" width="500" />
